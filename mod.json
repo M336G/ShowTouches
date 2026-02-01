@@ -1,0 +1,35 @@
+{
+	"geode": "4.10.0",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074"
+	},
+	"id": "m336.show-touches",
+	"name": "Show Touches",
+	"version": "v1.0.0",
+	"developers": [
+		"M336",
+		"TheSillyDoggo"
+	],
+	"description": "Displays an indicator on where you click on the screen!",
+	"tags": [
+		"offline",
+		"utility"
+	],
+	"links": {
+		"source": "https://github.com/M336G/ShowTouches"
+	},
+	"issues": {
+		"info": "Having a problem with the mod? Report the issue on the GitHub repository",
+		"url": "https://github.com/M336G/ShowTouches/issues"
+	},
+	"settings": {
+		"disable-show-touches": {
+			"name": "Disable Show Touches",
+			"description": "Disables showing touches on the screen",
+			"type": "bool",
+			"default": false
+		}
+	}
+}
