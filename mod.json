@@ -1,18 +1,18 @@
 {
-	"geode": "4.10.0",
+	"geode": "5.0.0-alpha.1",
 	"gd": {
-		"win": "2.2074",
-		"android": "2.2074",
-		"mac": "2.2074"
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081"
 	},
 	"id": "m336.show-touches",
 	"name": "Show Touches",
-	"version": "v1.0.0",
+	"version": "v1.0.1",
 	"developers": [
 		"M336",
 		"TheSillyDoggo"
 	],
-	"description": "Displays an indicator on where you click on the screen!",
+	"description": "Shows where you click on the screen!",
 	"tags": [
 		"offline",
 		"utility"
