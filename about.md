@@ -1,4 +1,4 @@
-# ShowTaps
+# Show Touches
 **WARNING**
 
 The code for this mod belongs to [TheSillyDoggo](https://github.com/TheSillyDoggo/). This is simply a port of [QOLMod](https://geode-sdk.org/mods/thesillydoggo.qolmod)'s "Show Touches" feature into its own mod.

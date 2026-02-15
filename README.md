@@ -1,4 +1,4 @@
-# ShowTaps
+# Show Touches
 > [!IMPORTANT]  
 > If you are a **Geode index verifier** wondering if TheSillyDoggo has given permission to publish this mod, check this:
 > <details>
