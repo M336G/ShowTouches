@@ -10,7 +10,7 @@ set(CMAKE_CXX_VISIBILITY_PRESET hidden)
 
 set(GEODE_PACKAGE_ZSTD ON)
 
-project(ShowTouches VERSION 1.0.2)
+project(ShowTouches VERSION 1.0.3)
 
 file(GLOB_RECURSE SOURCES CONFIGURE_DEPENDS src/*.cpp)
 
